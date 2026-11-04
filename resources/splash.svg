@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2732" height="2732" viewBox="0 0 2732 2732">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071822"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="2732" height="2732" fill="url(#bg)"/>
+  <circle cx="1366" cy="1050" r="720" fill="#f8fafc" opacity="0.96"/>
+  <path d="M760 1060c0-280 225-505 505-505 191 0 358 104 448 257l-191 110c-55-94-160-158-277-158-177 0-320 143-320 320s143 320 320 320c117 0 222-64 277-158l191 110c-90 153-257 257-448 257-280 0-505-225-505-505Z" fill="#071822"/>
+  <path d="M1366 770 1514 1094h356l-288 210 109 324-344-249-344 249 109-324-288-210h356Z" fill="#38bdf8" opacity="0.9"/>
+  <text x="1366" y="1730" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="380" font-weight="700" fill="#071822">MF</text>
+  <text x="1366" y="1960" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="160" font-weight="600" fill="#e2e8f0" letter-spacing="10">MISSION FOOTBALL</text>
+</svg>

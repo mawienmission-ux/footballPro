@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Mission Football</title>
+  <desc id="desc">A football icon with a shield and ball.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0b1320"/>
+  <path d="M32 8l18 9v14c0 12-8 21-18 25-10-4-18-13-18-25V17l18-9zm0 11l-8 13h16l-8-13zm-8 18h16l-8 13-8-13zm-3-4l-7 4 7 4 4-8zm22 8l7 4-7 4-4-8zm-3-13l7-4-4 8-3-4z" fill="url(#g)"/>
+  <circle cx="32" cy="32" r="4" fill="#f8fafc"/>
+</svg>

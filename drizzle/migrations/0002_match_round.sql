@@ -1,0 +1,2 @@
+ALTER TABLE public.matches ADD COLUMN round text NOT NULL DEFAULT '';
+UPDATE public.matches SET round = CASE WHEN kickoff < (CASE WHEN league='GGCPT Volleyball' THEN timestamptz '2026-12-07' ELSE timestamptz '2026-12-05' END) THEN 'Round 1' ELSE 'Round 2' END WHERE league IN ('Greater Gogrial Community Peace Tournament','GGCPT Volleyball');

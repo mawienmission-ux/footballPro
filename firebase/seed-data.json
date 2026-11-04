@@ -1,0 +1,83 @@
+{
+  "admins": [
+    {
+      "id": "mawienmision@gmail.com",
+      "email": "mawienmision@gmail.com",
+      "role": "admin",
+      "name": "Mawien Mission",
+      "created_at": "2026-11-03T00:00:00.000Z"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "league-sspl",
+      "name": "South Sudan Premier League",
+      "short_name": "SSPL",
+      "group_name": "Premier League",
+      "logo_url": "",
+      "sort_order": 1
+    },
+    {
+      "id": "league-juba-first",
+      "name": "Juba Local Football Association (Konyokonyo League) First Division",
+      "short_name": "Juba 1",
+      "group_name": "Juba",
+      "logo_url": "",
+      "sort_order": 2
+    }
+  ],
+  "clubs": [
+    {
+      "id": "club-alhilal",
+      "name": "Al-Hilal FC",
+      "short_name": "ALH",
+      "league": "South Sudan Premier League",
+      "country": "South Sudan",
+      "logo_url": "",
+      "sort_order": 1
+    },
+    {
+      "id": "club-elite",
+      "name": "Elite FC",
+      "short_name": "ELI",
+      "league": "South Sudan Premier League",
+      "country": "South Sudan",
+      "logo_url": "",
+      "sort_order": 2
+    },
+    {
+      "id": "club-juba-city",
+      "name": "Juba City FC",
+      "short_name": "JBA",
+      "league": "South Sudan Premier League",
+      "country": "South Sudan",
+      "logo_url": "",
+      "sort_order": 3
+    }
+  ],
+  "matches": [
+    {
+      "id": "match-1",
+      "league": "South Sudan Premier League",
+      "home_club_id": "club-alhilal",
+      "away_club_id": "club-elite",
+      "kickoff": "2026-11-08T16:00:00.000Z",
+      "venue": "Juba Stadium",
+      "round": "Round 1",
+      "status": "scheduled",
+      "minute": null,
+      "home_score": null,
+      "away_score": null
+    }
+  ],
+  "news": [
+    {
+      "id": "news-1",
+      "title": "Welcome to M.MissionFootball",
+      "category": "Platform News",
+      "body": "Your home for South Sudan Premier League football, local associations, clubs, players, fixtures and results.",
+      "image_url": "",
+      "published_at": "2026-11-03T00:00:00.000Z"
+    }
+  ]
+}
