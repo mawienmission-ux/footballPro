@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M.MissionFootball
 
 A football-focused web application for South Sudan clubs, leagues, fixtures, news, and administration. The app includes a modern dark/light UI, a secure admin dashboard, and a Firebase-powered data layer with a local fallback for development when no credentials are configured.
@@ -124,3 +125,6 @@ The application is designed for:
 - Transfers, comments, notifications, ads, and preferences
 
 This is backed by Firebase collections and the app’s local fallback ensures development still works when database credentials are not yet supplied.
+=======
+# footballPro
+>>>>>>> a6ab8ec0cefd2510571091de6e5193aac098707b
